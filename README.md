@@ -20,4 +20,20 @@ Fuentes: Arapey (Google Fonts).
 
 ---------------------------------------------------------------------------------------
 
-##Recursos utilizados
+## Recursos utilados y dependencias
+
+HTML, CSS, Javascript
+
+Sublime text
+
+Wordpress 
+
+--------------------------------------------------------------------------------------
+
+## Plugins
+
+- Contact form 7:
+- Smush:
+- Mailchimp for wordpress: 
+- MetroNotification
+
