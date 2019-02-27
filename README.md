@@ -8,3 +8,5 @@ Proyecto final para el curso "Desarrollador Front-End" de desafiolatam
 **Usuario wordpress:** hugoman 
 
 **Clave:** Ramirez931@
+
+**Link de youtube:**  
