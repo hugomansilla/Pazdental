@@ -1,8 +1,8 @@
 # Pazdental
-##Proyecto final para el curso "Desarrollador Front-End" de desafiolatam
+Proyecto final para el curso "Desarrollador Front-End" de desafiolatam
 
-Sitio web: www.hugomansilla.cl
+**Sitio web:** www.hugomansilla.cl
 
-Usuario wordpress: hugoman 
+**Usuario wordpress:** hugoman 
 
-Clave: Ramirez931@
+**Clave:** Ramirez931@
