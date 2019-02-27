@@ -22,18 +22,18 @@ Fuentes: Arapey (Google Fonts).
 
 ## Recursos utilados y dependencias
 
-HTML, CSS, Javascript
+- HTML, CSS, Javascript, Jquery, Bootstrap3.
 
-Sublime text
+- Sublime text 
 
-Wordpress 
+- Wordpress 
 
 --------------------------------------------------------------------------------------
 
 ## Plugins
 
-- Contact form 7:
-- Smush:
-- Mailchimp for wordpress: 
-- MetroNotification
+- Contact form 7: Formularios.
+- Smush: Optimización de imágenes.
+- Mailchimp for wordpress: Api de Mailchimp para E-mail Marketing e integración con formularios internos.
+- MetroNotification: Notificaciones dinámicas. 
 
