@@ -15,3 +15,4 @@
 ## Guía de estilos 
 
 Colores del tema: 
+ - Predominante: # 
