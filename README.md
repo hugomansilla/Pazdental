@@ -15,5 +15,6 @@
 ## Guía de estilos 
 
 Colores del tema: #63B999, #212529, #107F56, rgba(204, 102, 183, 0.9).
+
 Fuentes: Arapey (Google Fonts).
 
